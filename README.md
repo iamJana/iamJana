@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamJana&&show_icons=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamJana&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamJana&layout=compact&hide_border=true">
